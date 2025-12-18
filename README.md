@@ -1,3 +1,7 @@
+# Description
+
+Clone repository, open with Obsidian, create post with Obsidian, push to GitHub, auto trigger GitHub Actions, publish to GitHub Pages.
+
 # How to set up
 
 Clone repository and open in [Obsidian](https://obsidian.md/)
