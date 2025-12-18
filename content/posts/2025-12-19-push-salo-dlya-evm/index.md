@@ -24,7 +24,7 @@ cover:
   image: attachments/cover.png
   alt: Пуш сало для ЭВМ
   caption: ""
-  relative: false
+  relative: true
   hidden: false
 ---
 ![](attachments/cover.png)
